@@ -1489,6 +1489,61 @@
       }
     }
   },
+  "DEV": {
+    "all": {
+      "1758416374": "online"
+    },
+    "by_server": {
+      "_metadata": {
+        "api.dogecoinev.com:50002": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        },
+        "api.dogecoinev.com:50003": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        },
+        "api2.dogecoinev.com:50002": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        },
+        "api2.dogecoinev.com:50003": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        }
+      },
+      "api.dogecoinev.com:50001": {
+        "1758416374": "online"
+      },
+      "api.dogecoinev.com:50002": {
+        "1758416374": "offline"
+      },
+      "api.dogecoinev.com:50003": {
+        "1758416374": "offline"
+      },
+      "api2.dogecoinev.com:50001": {
+        "1758416374": "online"
+      },
+      "api2.dogecoinev.com:50002": {
+        "1758416374": "offline"
+      },
+      "api2.dogecoinev.com:50003": {
+        "1758416374": "offline"
+      }
+    }
+  },
   "DGB": {
     "all": {
       "1755770395": "online"
@@ -6051,6 +6106,29 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "xvc-ex-seven.ewmci.online:50001": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "xvc-ex-seven.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "xvc-ex-seven.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        }
+      },
       "electrumx1.vanillacash.info:50011": {
         "1755770395": "online"
       },
@@ -6070,13 +6148,16 @@
         "1755770395": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1758416374": "offline"
       },
       "xvc-ex-seven.ewmci.online:50002": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1758416374": "offline"
       },
       "xvc-ex-seven.ewmci.online:50003": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1758416374": "offline"
       }
     }
   },
