@@ -1489,6 +1489,31 @@
       }
     }
   },
+  "DEV": {
+    "all": {
+      "1758934366": "online"
+    },
+    "by_server": {
+      "api.dogecoinev.com:50001": {
+        "1758934366": "online"
+      },
+      "api.dogecoinev.com:50002": {
+        "1758934366": "online"
+      },
+      "api.dogecoinev.com:50003": {
+        "1758934366": "online"
+      },
+      "api2.dogecoinev.com:50001": {
+        "1758934366": "online"
+      },
+      "api2.dogecoinev.com:50002": {
+        "1758934366": "online"
+      },
+      "api2.dogecoinev.com:50003": {
+        "1758934366": "online"
+      }
+    }
+  },
   "DGB": {
     "all": {
       "1755770395": "online"
@@ -1708,7 +1733,8 @@
   "DIMI": {
     "all": {
       "1755770395": "online",
-      "1757307678": "offline"
+      "1757307678": "offline",
+      "1758934366": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1773,11 +1799,13 @@
       },
       "electrumx2.diminutivecoin.com:50012": {
         "1755770395": "online",
-        "1757307678": "offline"
+        "1757307678": "offline",
+        "1758934366": "online"
       },
       "electrumx2.diminutivecoin.com:50013": {
         "1755770395": "online",
-        "1757307678": "offline"
+        "1757307678": "offline",
+        "1758934366": "online"
       }
     }
   },
@@ -4697,7 +4725,8 @@
         "1758289389": "online"
       },
       "electrum.newyorkcoin.online:50004": {
-        "1758289389": "offline"
+        "1758289389": "offline",
+        "1758934366": "online"
       },
       "nyc.newyorkcoin.online:50002": {
         "1755770395": "online"
@@ -5782,7 +5811,8 @@
         "1755770395": "online"
       },
       "el2.verus.io:17488": {
-        "1755770395": "offline"
+        "1755770395": "offline",
+        "1758934366": "online"
       }
     }
   },
@@ -6051,6 +6081,29 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "xvc-ex-seven.ewmci.online:50001": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "xvc-ex-seven.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "xvc-ex-seven.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        }
+      },
       "electrumx1.vanillacash.info:50011": {
         "1755770395": "online"
       },
@@ -6070,13 +6123,16 @@
         "1755770395": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1758934366": "offline"
       },
       "xvc-ex-seven.ewmci.online:50002": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1758934366": "offline"
       },
       "xvc-ex-seven.ewmci.online:50003": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1758934366": "offline"
       }
     }
   },
@@ -6294,15 +6350,18 @@
       },
       "zet-ex-three.ewmci.online:50011": {
         "1755770395": "offline",
-        "1757795910": "online"
+        "1757795910": "online",
+        "1758934366": "offline"
       },
       "zet-ex-three.ewmci.online:50012": {
         "1755770395": "offline",
-        "1757795910": "online"
+        "1757795910": "online",
+        "1758934366": "offline"
       },
       "zet-ex-three.ewmci.online:50013": {
         "1755770395": "offline",
-        "1757795910": "online"
+        "1757795910": "online",
+        "1758934366": "offline"
       }
     }
   },
